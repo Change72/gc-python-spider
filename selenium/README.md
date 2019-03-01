@@ -33,3 +33,28 @@ Based on the drivers of Firefox and Chrome, including headless, spider can colle
 4) get_excel.py : small function, use xlsx to generate excel
 5) "财新传媒有限公司_2019-01-20.xlsx": Sample Results
 
+
+
+## Project 2. Investors in V-Next
+
+#### Target: 
+1) collect all investor details, including image and text, on: https://www.v-next.cn/sizeContacts/list.do
+
+
+#### Challenge:
+1) Login: to visit each investor details, sign in is needed.
+
+
+#### Highlights:
+1) Login: firstly visit login page: https://www.v-next.cn/log/login.do
+	  secondly, redirection details page and collect data.
+
+
+#### File Illustrate:
+1) Vnext.py: main()
+2) Investor_Info.csv: Sample Results
+3) folder image: icon
+
+
+
+
