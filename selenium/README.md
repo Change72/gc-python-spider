@@ -74,3 +74,9 @@ Based on the drivers of Firefox and Chrome, including headless, spider can colle
 3) folder video: src video
 
 
+
+## Project 9. Scripts
+This folder store some small scripts about selenium.
+
+#### 1) cookie:
+Get cookie and load cookie to realize auto-login.
