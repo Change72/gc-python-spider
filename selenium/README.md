@@ -80,3 +80,9 @@ This folder store some small scripts about selenium.
 
 #### 1) cookie:
 Get cookie and load cookie to realize auto-login.
+
+#### 2) chromedriver:
+webdriver for chrome
+
+
+
