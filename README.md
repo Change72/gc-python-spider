@@ -8,4 +8,6 @@ Use three ways to gain data
 
 ## 2. selenium
 
+For those websites which use AJAX (asynchronous JavaScript), we cannot use request. However, Selenium + FireFox/Chrome/PhantomJS will be a good solution.
+
 ## 3. scarpy
