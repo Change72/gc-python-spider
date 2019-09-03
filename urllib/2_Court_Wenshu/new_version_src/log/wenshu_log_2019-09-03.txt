@@ -1,0 +1,89 @@
+[2019-09-03 10:07:43][my_logger.py][line:32][INFO] 类别 0 第 1 页开始
+[2019-09-03 10:07:55][my_logger.py][line:32][INFO] 类别 0 第 1 页第 0项完成
+[2019-09-03 10:08:04][my_logger.py][line:32][INFO] 类别 0 第 1 页第 1项完成
+[2019-09-03 10:08:07][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:08:07][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:08:12][my_logger.py][line:32][INFO] 类别 0 第 1 页第 4项完成
+[2019-09-03 10:08:20][my_logger.py][line:32][INFO] 类别 0 第 2 页开始
+[2019-09-03 10:08:23][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:08:24][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:08:24][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:08:24][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:08:24][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:08:29][my_logger.py][line:32][INFO] 类别 0 第 3 页开始
+[2019-09-03 10:08:38][my_logger.py][line:32][INFO] 类别 0 第 3 页第 0项完成
+[2019-09-03 10:08:47][my_logger.py][line:32][INFO] 类别 0 第 3 页第 1项完成
+[2019-09-03 10:08:56][my_logger.py][line:32][INFO] 类别 0 第 3 页第 2项完成
+[2019-09-03 10:09:05][my_logger.py][line:32][INFO] 类别 0 第 3 页第 3项完成
+[2019-09-03 10:09:09][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:13][my_logger.py][line:32][INFO] 类别 0 第 4 页开始
+[2019-09-03 10:09:23][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 10:09:23][my_logger.py][line:32][INFO] 类别 0 第 4 页第 0项完成
+[2019-09-03 10:09:27][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:27][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:28][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:28][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:31][my_logger.py][line:32][INFO] 类别 0 第 5 页开始
+[2019-09-03 10:09:35][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:35][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:35][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:36][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:36][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:40][my_logger.py][line:32][INFO] 类别 0 第 6 页开始
+[2019-09-03 10:09:44][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:45][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:45][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:45][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:45][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:50][my_logger.py][line:32][INFO] 类别 0 第 7 页开始
+[2019-09-03 10:09:54][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:54][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:55][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:55][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:55][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:09:59][my_logger.py][line:32][INFO] 类别 0 第 8 页开始
+[2019-09-03 10:10:03][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:03][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:03][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:03][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:03][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:07][my_logger.py][line:32][INFO] 类别 0 第 9 页开始
+[2019-09-03 10:10:12][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:13][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:13][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:13][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:13][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:18][my_logger.py][line:32][INFO] 类别 0 第 10 页开始
+[2019-09-03 10:10:22][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:22][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:22][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:22][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:22][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:26][my_logger.py][line:32][INFO] 类别 0 第 11 页开始
+[2019-09-03 10:10:31][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:31][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:31][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:32][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:32][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:36][my_logger.py][line:32][INFO] 类别 0 第 12 页开始
+[2019-09-03 10:10:40][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:40][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:40][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:40][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 10:10:40][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-09-03 11:07:17][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:07:24][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:07:30][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:07:39][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:07:48][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:07:56][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:08:03][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:08:13][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:08:19][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:08:28][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:08:37][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:08:44][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:08:54][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:10:40][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:20:03][my_logger.py][line:42][ERROR] ORA-01461: 仅能绑定要插入 LONG 列的 LONG 值
+[2019-09-03 11:26:43][my_logger.py][line:42][ERROR] positional and named binds cannot be intermixed
