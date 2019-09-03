@@ -1,0 +1,1053 @@
+[2019-08-30 12:01:49][my_logger.py][line:32][INFO] 开始获取 类别2 第 1页
+[2019-08-30 12:01:57][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:02:04][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:02:09][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:02:18][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:02:22][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:02:43][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:03:23][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:04:41][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:04:46][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:05:06][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:05:25][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:06:09][my_logger.py][line:37][WARNING] 行政案件列表第 1 页失败
+[2019-08-30 12:06:09][my_logger.py][line:32][INFO] 开始获取 类别1 第 1页
+[2019-08-30 12:06:17][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:06:32][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:06:50][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:07:02][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:07:33][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:08:09][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:08:15][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:08:21][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:10:21][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:10:28][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:10:30][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:10:31][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:10:31][my_logger.py][line:37][WARNING] 民事案件列表第 1 页失败
+[2019-08-30 12:10:31][my_logger.py][line:32][INFO] 开始获取 类别1 第 2页
+[2019-08-30 12:11:06][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:12:30][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:13:21][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:13:54][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:13:59][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:14:10][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:14:42][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:15:36][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:15:40][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:15:55][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:16:01][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:16:04][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:16:12][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:16:12][my_logger.py][line:37][WARNING] 民事案件列表第 2 页失败
+[2019-08-30 12:16:12][my_logger.py][line:32][INFO] 开始获取 类别4 第 3页
+[2019-08-30 12:16:59][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:17:36][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:19:39][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:19:48][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:19:54][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:20:25][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:20:31][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:20:53][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:21:01][my_logger.py][line:37][WARNING] 执行案件列表第 3 页失败
+[2019-08-30 12:21:01][my_logger.py][line:32][INFO] 开始获取 类别0 第 2页
+[2019-08-30 12:21:27][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:22:33][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 12:22:38][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:22:43][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:22:51][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:22:57][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:23:07][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:23:47][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:23:53][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:24:04][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:24:06][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:24:08][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:24:14][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:25:39][my_logger.py][line:37][WARNING] 刑事案件列表第 2 页失败
+[2019-08-30 12:25:39][my_logger.py][line:32][INFO] 开始获取 类别3 第 1页
+[2019-08-30 12:25:46][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:27:13][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:27:21][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:28:06][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:28:32][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:28:37][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:28:58][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:29:02][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:29:07][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:29:35][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:29:40][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:29:43][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:29:50][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:29:56][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:29:56][my_logger.py][line:37][WARNING] 赔偿案件列表第 1 页失败
+[2019-08-30 12:29:56][my_logger.py][line:32][INFO] 开始获取 类别4 第 5页
+[2019-08-30 12:29:58][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:30:49][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:30:58][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:31:12][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:31:21][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:31:55][my_logger.py][line:32][INFO] 开始获取 类别0 第 2页
+[2019-08-30 12:32:21][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:33:14][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:33:48][my_logger.py][line:37][WARNING] 列表页数据为空
+[2019-08-30 12:34:02][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:36:37][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:37:04][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:37:43][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:38:16][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:39:38][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:40:28][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:40:44][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:40:51][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:40:58][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:41:39][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:42:35][my_logger.py][line:32][INFO] 开始获取 类别2 第 1页
+[2019-08-30 12:43:44][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 12:43:55][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:44:35][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:44:46][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:44:57][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:45:45][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:45:57][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:47:03][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:47:11][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:47:48][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:47:59][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:49:16][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 12:49:20][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:49:57][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:50:46][my_logger.py][line:37][WARNING] 列表页数据为空
+[2019-08-30 12:55:20][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:55:20][my_logger.py][line:37][WARNING] 行政案件列表第 1 页失败
+[2019-08-30 12:55:20][my_logger.py][line:32][INFO] 开始获取 类别0 第 2页
+[2019-08-30 12:56:07][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:56:11][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:57:03][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:57:16][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:57:19][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 12:57:30][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:07:34][my_logger.py][line:32][INFO] 开始获取 类别1 第 6页
+[2019-08-30 13:08:58][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:09:55][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:11:10][my_logger.py][line:32][INFO] 开始获取 类别4 第 5页
+[2019-08-30 13:16:11][my_logger.py][line:32][INFO] 开始获取 类别0 第 2页
+[2019-08-30 13:16:19][my_logger.py][line:42][ERROR] Value for header {User-Agent: ('Opera/9.80 (Android 2.3.4; Linux; Opera Mobi/build-1107180945; U; en-GB) Presto/2.8.149 Version/11.10',)} must be of type str or bytes, not <class 'tuple'>
+[2019-08-30 13:16:23][my_logger.py][line:42][ERROR] Value for header {User-Agent: ('Mozilla/5.0 (X11; Linux i686; U;) Gecko/20070322 Kazehakase/0.4.5',)} must be of type str or bytes, not <class 'tuple'>
+[2019-08-30 13:16:27][my_logger.py][line:42][ERROR] Value for header {User-Agent: ('Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)',)} must be of type str or bytes, not <class 'tuple'>
+[2019-08-30 13:17:02][my_logger.py][line:32][INFO] 开始获取 类别1 第 6页
+[2019-08-30 13:17:10][my_logger.py][line:42][ERROR] Value for header {User-Agent: ('M',)} must be of type str or bytes, not <class 'tuple'>
+[2019-08-30 13:17:55][my_logger.py][line:32][INFO] 开始获取 类别1 第 10页
+[2019-08-30 13:19:03][my_logger.py][line:32][INFO] 开始获取 类别3 第 1页
+[2019-08-30 13:20:29][my_logger.py][line:32][INFO] 开始获取 类别1 第 2页
+[2019-08-30 13:22:46][my_logger.py][line:32][INFO] 开始获取 类别4 第 3页
+[2019-08-30 13:23:51][my_logger.py][line:32][INFO] 开始获取 类别2 第 1页
+[2019-08-30 13:23:51][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:52][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:37][WARNING] 行政案件1列表页第一次失败
+[2019-08-30 13:23:53][my_logger.py][line:37][WARNING] 行政案件列表第 1 页失败
+[2019-08-30 13:23:53][my_logger.py][line:32][INFO] 开始获取 类别0 第 2页
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:53][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:54][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:37][WARNING] 刑事案件2列表页第一次失败
+[2019-08-30 13:23:55][my_logger.py][line:37][WARNING] 刑事案件列表第 2 页失败
+[2019-08-30 13:23:55][my_logger.py][line:32][INFO] 开始获取 类别1 第 1页
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:55][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:56][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:37][WARNING] 民事案件1列表页第一次失败
+[2019-08-30 13:23:57][my_logger.py][line:37][WARNING] 民事案件列表第 1 页失败
+[2019-08-30 13:23:57][my_logger.py][line:32][INFO] 开始获取 类别4 第 5页
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:37][WARNING] 执行案件5列表页第一次失败
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:37][WARNING] 执行案件5列表页第一次失败
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:37][WARNING] 执行案件5列表页第一次失败
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:37][WARNING] 执行案件5列表页第一次失败
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:37][WARNING] 执行案件5列表页第一次失败
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:23:57][my_logger.py][line:37][WARNING] 执行案件5列表页第一次失败
+[2019-08-30 13:24:32][my_logger.py][line:32][INFO] 开始获取 类别1 第 2页
+[2019-08-30 13:25:13][my_logger.py][line:32][INFO] 开始获取 类别1 第 6页
+[2019-08-30 13:26:26][my_logger.py][line:37][WARNING] 列表页数据为空
+[2019-08-30 13:27:26][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 13:28:25][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:29:11][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:30:05][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:31:48][my_logger.py][line:32][INFO] 开始获取 类别2 第 1页
+[2019-08-30 13:32:46][my_logger.py][line:32][INFO] 开始获取 类别1 第 2页
+[2019-08-30 13:33:12][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:33:48][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:34:20][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:34:35][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:34:50][my_logger.py][line:32][INFO] 开始获取 类别3 第 1页
+[2019-08-30 13:35:22][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:36:30][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:37:21][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:37:33][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:38:07][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:38:41][my_logger.py][line:32][INFO] 开始获取 类别1 第 8页
+[2019-08-30 13:39:20][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:39:32][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:39:46][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:40:51][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:41:01][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:41:05][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:41:11][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:41:50][my_logger.py][line:32][INFO] 开始获取 类别1 第 8页
+[2019-08-30 13:42:49][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:43:22][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:43:46][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:44:27][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:44:42][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:45:42][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:45:46][my_logger.py][line:42][ERROR] 'set-cookie'
+[2019-08-30 13:46:46][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 13:48:08][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 13:48:23][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:49:28][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 13:49:46][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:50:42][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:51:51][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 13:53:35][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:54:07][my_logger.py][line:37][WARNING] 列表页数据为空
+[2019-08-30 13:55:10][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:55:46][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:55:55][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:56:20][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:56:34][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:57:04][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:57:16][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:57:16][my_logger.py][line:37][WARNING] 民事案件列表第 8 页失败
+[2019-08-30 13:57:17][my_logger.py][line:32][INFO] 开始获取 类别2 第 1页
+[2019-08-30 13:57:32][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:57:54][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 13:58:07][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:01:14][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:02:24][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:02:37][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:02:47][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:03:38][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:04:47][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:05:16][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:19:14][my_logger.py][line:32][INFO] 开始获取 类别2 第 1页
+[2019-08-30 14:20:23][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:20:42][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:20:50][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:21:15][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:21:16][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:21:20][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:21:23][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:21:24][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:21:27][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:21:43][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:21:44][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:21:45][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:21:54][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:21:59][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:22:59][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:23:59][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:23:59][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:24:00][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:24:04][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:24:08][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:24:13][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:24:17][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:24:35][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:24:37][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:24:41][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:24:45][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:25:03][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:25:36][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:26:11][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:26:11][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:26:24][my_logger.py][line:32][INFO] 开始获取 类别1 第 2页
+[2019-08-30 14:27:03][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:27:12][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:27:43][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:28:17][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:28:24][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:29:21][my_logger.py][line:37][WARNING] 列表页数据为空
+[2019-08-30 14:29:34][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:29:48][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:30:05][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:30:41][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:32:01][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:32:43][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:32:55][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:33:55][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:34:47][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:35:04][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:36:04][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:36:17][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 14:36:17][my_logger.py][line:42][ERROR] insert into SCOTT.CHN_COURT_SENTENCE(DOC_ID, DOCUMENT_ID, DOCUMENT_DATE, PUNISH_ORG, DOCUMENT_TYPE1, DOCUMENT_TYPE2, PUNISH_TITLE, FILE_SITE, status, creator) values (:1, :2, :3, :4, :5, :6, :7, :8, 0, 'gc')
+[2019-08-30 14:36:18][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:36:22][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:36:27][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:36:27][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:36:27][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:36:53][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 14:36:53][my_logger.py][line:42][ERROR] insert into SCOTT.CHN_COURT_SENTENCE(DOC_ID, DOCUMENT_ID, DOCUMENT_DATE, PUNISH_ORG, DOCUMENT_TYPE1, DOCUMENT_TYPE2, PUNISH_TITLE, FILE_SITE, status, creator) values (:1, :2, :3, :4, :5, :6, :7, :8, 0, 'gc')
+[2019-08-30 14:36:53][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:36:53][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:38:40][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:39:09][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 14:39:09][my_logger.py][line:42][ERROR] insert into SCOTT.CHN_COURT_SENTENCE(DOC_ID, DOCUMENT_ID, DOCUMENT_DATE, PUNISH_ORG, DOCUMENT_TYPE1, DOCUMENT_TYPE2, PUNISH_TITLE, FILE_SITE, status, creator) values (:1, :2, :3, :4, :5, :6, :7, :8, 0, 'gc')
+[2019-08-30 14:39:09][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:39:15][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:39:27][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:39:37][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:39:56][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:40:16][my_logger.py][line:32][INFO] 开始获取 类别4 第 3页
+[2019-08-30 14:40:30][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 14:41:01][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:41:05][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:42:05][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:42:23][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:42:24][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:42:56][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 14:42:56][my_logger.py][line:42][ERROR] insert into SCOTT.CHN_COURT_SENTENCE(DOC_ID, DOCUMENT_ID, DOCUMENT_DATE, PUNISH_ORG, DOCUMENT_TYPE1, DOCUMENT_TYPE2, PUNISH_TITLE, FILE_SITE, status, creator) values (:1, :2, :3, :4, :5, :6, :7, :8, 0, 'gc')
+[2019-08-30 14:43:00][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:43:03][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:43:04][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:43:50][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 14:43:50][my_logger.py][line:42][ERROR] insert into SCOTT.CHN_COURT_SENTENCE(DOC_ID, DOCUMENT_ID, DOCUMENT_DATE, PUNISH_ORG, DOCUMENT_TYPE1, DOCUMENT_TYPE2, PUNISH_TITLE, FILE_SITE, status, creator) values (:1, :2, :3, :4, :5, :6, :7, :8, 0, 'gc')
+[2019-08-30 14:43:51][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:43:52][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:43:57][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:43:58][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:44:02][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:44:05][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:44:40][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:44:44][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:44:48][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:44:53][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:44:55][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:45:09][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:45:10][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:45:14][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:45:18][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:45:19][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:45:39][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:45:40][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:45:46][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:45:55][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:45:55][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:45:55][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:45:57][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:45:58][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:46:01][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:46:05][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:46:07][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:46:10][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:46:34][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:46:34][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:47:06][my_logger.py][line:32][INFO] 开始获取 类别1 第 8页
+[2019-08-30 14:48:06][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:48:37][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:49:37][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:49:42][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:49:43][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:49:43][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:50:18][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:50:19][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:50:19][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:50:19][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:50:19][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:50:20][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:51:01][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:51:02][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:51:39][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:51:40][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:51:44][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:52:26][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:53:26][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:53:27][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:53:31][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:53:35][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:53:35][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:53:36][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:54:07][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 14:54:07][my_logger.py][line:42][ERROR] insert into SCOTT.CHN_COURT_SENTENCE(DOC_ID, DOCUMENT_ID, DOCUMENT_DATE, PUNISH_ORG, DOCUMENT_TYPE1, DOCUMENT_TYPE2, PUNISH_TITLE, FILE_SITE, status, creator) values (:1, :2, :3, :4, :5, :6, :7, :8, 0, 'gc')
+[2019-08-30 14:54:08][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:54:09][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:09][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 14:55:09][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:09][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:09][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:17][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:21][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:21][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:22][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:26][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:30][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:34][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:38][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:39][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:55][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:55:58][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:56:20][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:56:24][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:56:28][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:56:29][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:56:29][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:56:58][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:57:05][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:57:05][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:57:05][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:57:06][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:57:08][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:57:09][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:57:31][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:57:39][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:57:57][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:57:57][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:58:16][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:58:20][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:58:23][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:58:39][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:58:43][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:00][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:01][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:21][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:21][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:23][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:26][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:49][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:49][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:49][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:50][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:51][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:51][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:52][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 14:59:56][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:00:00][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:00:11][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:00:14][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:00:18][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:00:37][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:00:41][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:00:46][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:00:51][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:01:10][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:01:11][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:01:27][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:01:27][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:01:27][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:01:27][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:01:27][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:01:44][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:01:57][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:02:09][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:02:10][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:02:10][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:02:14][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:02:19][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:02:22][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:02:26][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:02:52][my_logger.py][line:32][INFO] 开始获取 类别1 第 6页
+[2019-08-30 15:03:16][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:03:35][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:03:51][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:04:25][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:05:03][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:05:58][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:07:05][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 15:08:21][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 15:08:29][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:09:04][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:10:11][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 15:10:21][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:11:01][my_logger.py][line:32][INFO] 开始获取 类别1 第 6页
+[2019-08-30 15:11:29][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 15:11:33][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:11:36][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:12:03][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 15:12:32][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 15:12:36][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:12:36][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:12:40][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:12:41][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:12:42][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:12:55][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 15:12:56][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:13:11][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 15:13:11][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:13:11][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:13:12][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:13:16][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:13:18][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:14:05][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 15:14:06][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:14:10][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:14:21][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 15:14:21][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:14:33][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 15:14:37][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:14:41][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:14:48][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:14:52][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:15:11][my_logger.py][line:32][INFO] 开始获取 类别4 第 5页
+[2019-08-30 15:15:30][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:15:49][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:15:54][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:16:02][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:16:06][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:16:10][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:16:11][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:17:11][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 15:18:11][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 15:18:33][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 15:18:59][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 15:19:03][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:19:10][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:19:11][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:20:11][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 15:20:14][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:20:25][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:20:25][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:20:25][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:20:26][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:20:26][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:20:30][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:21:20][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:21:24][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:22:00][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:22:04][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:22:05][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:23:05][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 15:23:09][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 15:24:09][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 15:24:55][my_logger.py][line:32][INFO] 开始获取 类别1 第 10页
+[2019-08-30 15:25:33][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:26:13][my_logger.py][line:32][INFO] 开始获取 类别1 第 10页
+[2019-08-30 15:27:00][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:27:09][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:28:09][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 15:28:24][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:29:12][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:29:30][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:29:49][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 15:30:16][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 16:22:34][my_logger.py][line:32][INFO] 开始获取 类别1 第 1页
+[2019-08-30 16:22:38][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 16:23:02][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 16:23:02][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 16:23:02][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:23:02][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:23:15][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:23:16][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:23:16][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:23:57][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:23:58][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:24:01][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:24:14][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 16:25:14][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 16:26:14][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 16:26:18][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:26:21][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:26:25][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:26:25][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:26:29][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:26:30][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:26:50][my_logger.py][line:32][INFO] 开始获取 类别3 第 1页
+[2019-08-30 16:26:59][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 16:27:11][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 16:27:46][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 16:28:09][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 16:28:21][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 16:29:09][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:29:43][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:29:47][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:29:47][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:29:54][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:30:01][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:30:01][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:30:04][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:06][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:09][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:13][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:17][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:18][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:18][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:18][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:18][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:19][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:39][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:43][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:43][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:46][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:47][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:31:50][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:32:14][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:32:17][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:32:21][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:32:21][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:32:46][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:33:05][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:33:06][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:33:13][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:33:16][my_logger.py][line:32][INFO] 开始获取 类别0 第 2页
+[2019-08-30 16:33:42][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 16:33:47][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:33:47][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:33:56][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:33:57][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:33:57][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:34:00][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:34:01][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:34:06][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:35:06][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 16:35:10][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:35:11][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:35:15][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:35:27][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 16:35:27][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 16:35:28][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:35:45][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:35:46][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:35:50][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:35:54][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:35:55][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:36:29][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:36:30][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:36:53][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 16:36:53][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 16:36:53][my_logger.py][line:32][INFO] 开始获取 类别1 第 10页
+[2019-08-30 16:37:33][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 16:37:41][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 16:37:47][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 16:38:24][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:38:25][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:38:29][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:38:29][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:38:33][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:38:37][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:38:37][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:38:41][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:39:41][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 16:39:45][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:39:50][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:39:54][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:39:57][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:40:17][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:40:38][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:40:42][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:40:46][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:40:50][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:40:51][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:40:52][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:40:56][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:41:56][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 16:42:56][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 16:43:06][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:43:39][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:43:44][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:43:47][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:43:52][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:43:56][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:44:00][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:44:04][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:44:14][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:45:14][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 16:45:37][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:45:41][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:45:44][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:46:00][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:46:01][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:46:05][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:46:09][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:46:14][my_logger.py][line:42][ERROR] ParseDetail.parse_detail异常：'NoneType' object has no attribute 'group'
+[2019-08-30 16:46:20][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 16:46:20][my_logger.py][line:42][ERROR] ORA-00001: 违反唯一约束条件 (SCOTT.PK_CHN_COURT_SENTENCE)
+[2019-08-30 16:46:20][my_logger.py][line:32][INFO] 开始获取 类别1 第 1页
+[2019-08-30 16:47:20][my_logger.py][line:42][ERROR] HTTPConnectionPool(host='wenshu.court.gov.cn', port=80): Read timed out. (read timeout=60)
+[2019-08-30 16:47:32][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 16:47:43][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 16:47:54][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 16:48:06][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 17:27:21][my_logger.py][line:32][INFO] 开始获取 类别1 第 7页
+[2019-08-30 17:27:48][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 17:28:15][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 17:28:20][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 17:28:52][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 17:29:07][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 17:29:15][my_logger.py][line:37][WARNING] 列表页数据异常
+[2019-08-30 17:29:41][my_logger.py][line:37][WARNING] 列表页数据异常
